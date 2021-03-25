@@ -1,4 +1,4 @@
-Approximate Nearest Neighbors with Locality-sensitive Hashing 
+Approximate Nearest Neighbors Search with Locality-sensitive Hashing 
 ======
 
 Often data is too large to apply k-nearest neighbors algorithm (k-NN). It makes sense to find approximate nearest neighbors (ANN) instead. Locality-sensitive hashing (LSH) is a powerful and popular algorithm to do that.
